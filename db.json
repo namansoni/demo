@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "1":{
+    "question":"Q1. Who created Flutter?",
+    "answers":[ 
+        {'text': 'Facebook', 'score': -2}, 
+        {'text': 'Adobe', 'score': -2}, 
+        {'text': 'Google', 'score': 10}, 
+        {'text': 'Microsoft', 'score': -2}, 
+      ],
+  },
+  "2":{
+    "question": "Q2. What is Flutter?",
+    "answers": [ 
+        {'text': 'Android Development Kit', 'score': -2}, 
+        {'text': 'IOS Development Kit', 'score': -2}, 
+        {'text': 'Web Development Kit', 'score': -2}, 
+        { 
+          'text': 
+              'SDK to build beautiful IOS, Android, Web & Desktop Native Apps', 
+          'score': 10 
+        }, 
+      ],
   }
 }
