@@ -1,5 +1,5 @@
 {
-  "1":{
+  [{
     "question":"Q1. Who created Flutter?",
     "answers":[ 
         {"text": "Facebook", "score": -2}, 
@@ -8,7 +8,7 @@
         {"text": "Microsoft", "score": -2}, 
       ],
   },
-  "2":{
+  {
     "question": "Q2. What is Flutter?",
     "answers": [ 
         {"text": "Android Development Kit", "score": -2}, 
@@ -20,5 +20,5 @@
           "score": 10 
         }, 
       ],
-  }
+  }]
 }
