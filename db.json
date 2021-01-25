@@ -2,7 +2,7 @@
   "1":{
     "question":"Q1. Who created Flutter?",
     "answers":[ 
-        {'text': 'Facebook', 'score': -2}, 
+        {"text": "Facebook", "score": -2}, 
         {'text': 'Adobe', 'score': -2}, 
         {'text': 'Google', 'score': 10}, 
         {'text': 'Microsoft', 'score': -2}, 
