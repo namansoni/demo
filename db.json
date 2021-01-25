@@ -1,11 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "1":{
+  "question":"Q1. Who created flutter?",
+   "answers":[
+   
+   ]
+ },
+ "2":{
+  "question":"Q2. Who created flutter?",
+   "answers":[
+   
+   ]
+ },
 }
